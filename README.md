@@ -1,2 +1,5 @@
-# ty
+# TY
 TYBSCIT
+GIS
+BI
+Softwares
